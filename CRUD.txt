@@ -1,0 +1,4 @@
+> INSERT INTO Customers (CustomerName, City, Country)
+VALUES ('Cardinal', 'Stavanger', 'Norway');
+> UPDATE CUSTOMERSSET ADDRESS = 'Pune' WHERE ID = 6;
+> DELETE FROM CUSTOMERS WHERE ID = 6;
